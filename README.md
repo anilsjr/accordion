@@ -4,7 +4,7 @@ A simple accordion component built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Check out the live demo of the accordion [js-accrodion](#https://anilsjr.github.io/js-accrodion).
+Check out the live demo of the accordion -> https://anilsjr.github.io/js-accrodion
 
 ## How It Works
 
